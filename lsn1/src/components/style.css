@@ -1,0 +1,26 @@
+.text-btn {
+    width: 150px;
+    height: 70px;
+    margin-left: 700px;
+    background: white;
+    color: black;
+    margin-top: 20px;
+    
+}
+
+.alert-btn {
+    width: 150px;
+    height: 70px;
+    margin-left: 700px;
+    background: white;
+    color: black;
+}
+
+.color-btn{
+    margin-top: 20px;       
+    width: 150px;
+    height: 70px;
+    margin-left: 700px;
+    background: white;
+    color: black;
+}
